@@ -4,5 +4,6 @@
 -In this project I have created a simple and elegant looking QR code card with the help of HTML & CSS.
 -This project is given by frontendmentor.io.
 -I used the help of some of the submissions for reference when needed.
+-I have created only the desktop verison, will create a mobile version soon.
 
 Take a look into the project and create yours too.
